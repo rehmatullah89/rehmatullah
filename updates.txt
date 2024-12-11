@@ -1,0 +1,8 @@
+orders.php -- > link added
+add manual_order.php
+add get_manual_items.php
+add db field remaining_item_qty in products
+add db field no_boxes_ordered in bill_details
+add file add_manual_bill_item.php
+create new table 
+customers_bills (bill_no,customer_name,customer_phone,customer_address,total_amount,date_bill)
